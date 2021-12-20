@@ -18,7 +18,7 @@ public class Resources  { //holding spot for our buffered image objects, based o
             test = ImageIO.read(new File("./res/test.png"));
             charlie = ImageIO.read(new File("./res/charlie_弟弟.png"));
             greenAlienBall = ImageIO.read(new File("./res/green-alien-ball.png"));
-            purpleSquid = ImageIO.read(new File("./res/purple-squid.png"));
+            purpleSquid = ImageIO.read(new File("./res/purple-squid2.png"));
             pinkShield = ImageIO.read(new File("./res/pink-shield.png"));
             greenGun = ImageIO.read(new File("./res/green-gun.png"));
             playerBullet = ImageIO.read(new File("./res/player-projectile.png"));
